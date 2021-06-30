@@ -17,6 +17,7 @@ This project involves developing a Linear regression model for the given *Bengal
 * *util.py*: This python file utilizes the model and predicts the housing price.
 
 ## Results
+
 Algorithm used | Training Data Score (%) | Testing Data Score (%)
 ---------------|-------------------------|-----------------------
 Linear Regression | 80.599 | 82.353
@@ -25,3 +26,4 @@ Decision Tree | 83.756 | 77.356
 
 ## Webpage
 
+![Webapp](/Web_App.jpg)
