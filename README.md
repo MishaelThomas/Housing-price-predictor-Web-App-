@@ -18,7 +18,7 @@ This project involves developing a Linear regression model for the given *Bengal
 
 ## Results
 
-Algorithm used | Training Data Score (%) | Testing Data Score (%)
+Algorithm | Training Data Score (%) | Testing Data Score (%)
 ---------------|-------------------------|-----------------------
 Linear Regression | 80.599 | 82.353
 Random Forest | 84.982 | 77.995
