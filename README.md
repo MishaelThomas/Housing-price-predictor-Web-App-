@@ -1,7 +1,7 @@
 # Housing price predictor Web App
 This project involves developing a Linear regression model for the given *Bengaluru housing price dataset* (Link to the dataset: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data). The model is further saved as a .pickle file and deployed as a web app using Flask. HTML and CSS were used for web development tasks.
 
-**_Tech Stack: Python, Linear Regress, Pandas, Scikit-learn, Flask, HTML, CSS._**
+**_Tech Stack: Python, Linear Regression, Pandas, Scikit-learn, Flask, HTML, CSS._**
 
 ## File Description
 * *app* : This folder contains files needed for web development.
